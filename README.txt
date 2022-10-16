@@ -7,3 +7,4 @@ se iran actualizando utilizando branches dentro de git
 Nombre del alumno: Martin Sebastian Perez Lopez
 Fecha de hoy: 15/10/22
 
+CAMBIO REALIZADO DESDE GITHUB
